@@ -1,5 +1,5 @@
 ﻿=== WPMarathi - Type in Marathi in WordPress ===
-Author URI: https://tyche.work/plugins.gallery URI: https://tyche.work/plugins.gallery: teamwpgenius : Marathi, Typing, Transliteration, Hinglish, Writing  
+Author URI: https://tycheventures.com URI: https://plugins.gallery: teamwpgenius : Marathi, Typing, Transliteration, Hinglish, Writing  
 Requires at least: 5.0
 Tested up to: 5.2
 Requires PHP: 5.6

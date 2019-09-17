@@ -10,7 +10,7 @@ Requires at least: 5.0
 */
 
 include(plugin_dir_path(__FILE__).'constant.php');
-include(plugin_dir_path(__FILE__).'class/wpgenius-transliterator.php');
+include(plugin_dir_path(__FILE__).'class/wpmarathi-transliterator.php');
 include(plugin_dir_path(__FILE__).'class/wpmarathi-deactivation-feedback.php');
 
 add_action( 'admin_enqueue_scripts', function($hook){
